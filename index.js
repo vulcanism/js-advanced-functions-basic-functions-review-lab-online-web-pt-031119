@@ -18,3 +18,7 @@ const Calculator = {
   multiply: function(x,y) {return x * y},
   divide: function(x, y) {return x / y}
 }
+
+function actionApplyer(int, array) {
+  
+}
