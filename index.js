@@ -20,5 +20,5 @@ const Calculator = {
 }
 
 function actionApplyer(int, array) {
-  
+
 }
