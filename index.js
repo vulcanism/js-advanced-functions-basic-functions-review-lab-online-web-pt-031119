@@ -20,5 +20,8 @@ const Calculator = {
 }
 
 function actionApplyer(int, array) {
-
+  for (const n of array) {
+    int = n(int)
+  }
+  return int
 }
